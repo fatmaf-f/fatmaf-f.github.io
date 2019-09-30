@@ -1,0 +1,495 @@
+body{
+    
+    background-image:url(bacgrau.PNG);
+    margin:0 ;
+    padding:0 ;
+ 
+ }
+
+ .container-all{
+
+  width:1200px ;
+  height:auto ;
+  margin:auto ;
+  
+}
+ 
+ .above-body115{
+   width:1130px ;
+   height:200px ;
+   background-color:rgb(216, 54, 54);
+   margin:0px ;
+   position: relative;
+   margin-left:35px 
+    
+ }
+ 
+ .header115{
+   width:1110px ;
+   height:100px ;
+   margin:0px ;
+   padding:0px ;
+   position: relative;     
+ }
+ 
+ .log{
+   width:140px ;
+   height:60px ;
+   float: left;
+   margin:10px ;
+   border:2px solid rgb(133, 6, 6);
+   
+ }
+ .title115{
+   width:350px ;
+   height:80px ;
+   margin:10px ;
+   float: left;
+   padding:5px ;
+   margin-left: 175px ;
+   text-align: center;
+   font-size:27px;
+   color: #fff;
+   font-weight:bold;
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;   
+ }
+ .teacher115{
+    width:150px ;
+    height: 60px;
+    float:right;
+    padding:5px;
+    margin:10px ;
+    text-align:center; 
+    font-size:20px;
+   color: #fff;
+   font-weight:bold; 
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;  
+   animation:coloring 1.5s infinite ease-in-out;   
+ }
+ @keyframes coloring{
+   0%{
+       color: #fff;
+   }
+   100%{
+       color: rgb(114, 7, 7);
+   }
+ }
+ 
+ 
+ .heading115{
+    width:450px ;
+    height:40px ;
+    float: right;
+    padding-right:30px;
+    margin-right:5px; 
+      
+ }
+ .heading115 ul{
+        list-style:none; 
+        text-decoration:none;
+        float: right;
+ }
+ 
+ .heading115 ul li{
+    
+   float: right;
+ 
+    
+ }
+ 
+ .heading115 ul li a{
+           text-decoration:none;
+           font-size:20px;
+           margin-left:20px;
+           margin:30px ;
+           color: #fff;
+           
+                
+    
+ }
+ 
+ .heading335{
+   width:1130px;
+   height:50px ;
+   float: right;
+   background-color:black; 
+  
+ }
+ .heading335 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: right; 
+       
+ }
+ 
+ .heading335 ul li{
+   
+  float: right;
+   
+ }
+ 
+ .heading335 ul li a{
+          text-decoration:none; 
+          margin:10px ;
+          font-size:15px; 
+          color: #fff;
+          border-radius:25px;
+          margin-left:38px 
+               
+   
+ }
+ 
+ .heading335 ul li a:hover{
+   text-decoration:underline; 
+ }
+ 
+ 
+ .header5555{
+   width:1130px ;
+   height:3100px; 
+   background:#fff;
+   margin-top:15px;
+   margin-left:35px;   
+    
+    
+ }
+ 
+ .heading5555{
+   width:1110px;
+   height:40px ;
+   float: left; 
+ 
+  
+ }
+ .heading5555 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: left;
+       
+ }
+ 
+ .heading5555 ul li{
+   
+  float: left;
+   
+ }
+ 
+ .heading5555 ul li a{
+          text-decoration:none; 
+          margin:25px ;
+          font-size:25px; 
+          border-radius:25px;
+          color: rgb(216, 14, 14);
+          
+        
+ }
+ 
+ .heading5555 ul li a i:hover{
+   transform:rotateY(240deg);
+   background:pink  
+ }
+ 
+ 
+ .footer225{
+    width:1130px ;
+    height:300px ;
+    margin-top:5px;
+    margin-left:35px;     
+ }
+ .footerMenu225{
+    width:1020px ;
+    height:140px ;
+    margin-left:40px;
+    margin-top:30px;  
+ }
+ 
+ .footerMenu225 ul{
+    list-style:none; 
+ }
+ 
+ .footerMenu225 ul li{
+ 
+    float: right;
+    margin:10px ;
+    margin-top:50px; 
+ }
+ 
+ .footerMenu225 ul li a{
+    text-decoration:none;
+    color:#fff;
+    font-size:17px;
+    font-family:tahoma;   
+ }
+ 
+ .footerLogo225{
+    float: left;
+    padding:10px ;
+    margin-top:25px; 
+    margin-left:20px 
+ }
+ 
+ .footerMenu225 ul li a:hover{
+    text-decoration:underline;
+    color: rgb(240, 12, 12); 
+ }
+ 
+ .copyRight225{
+    color: #fff;
+    font-size:17px;
+    font-family:tahoma;
+    text-align:center;
+    padding:10px ;   
+ }
+ 
+ 
+ 
+ body{
+    
+    background-image:url(bacgrau.PNG);
+    margin:0 ;
+    padding:0 ;
+ 
+ }
+
+ .container-all{
+
+  width:1200px ;
+  height:auto ;
+  margin:auto ;
+  
+}
+ 
+ .above-body116{
+   width:1130px ;
+   height:200px ;
+   background-color:rgb(216, 54, 54);
+   margin:0px ;
+   position: relative;
+   margin-left:35px 
+    
+ }
+ 
+ .header116{
+   width:1110px ;
+   height:100px ;
+   margin:0px ;
+   padding:0px ;
+   position: relative;     
+ }
+ 
+ .log{
+   width:140px ;
+   height:60px ;
+   float: left;
+   margin:10px ;
+   border:2px solid rgb(133, 6, 6);
+   
+ }
+ .title116{
+   width:350px ;
+   height:80px ;
+   margin:10px ;
+   float: left;
+   padding:5px ;
+   margin-left: 175px ;
+   text-align: center;
+   font-size:27px;
+   color: #fff;
+   font-weight:bold;
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;   
+ }
+ .teacher116{
+    width:150px ;
+    height: 60px;
+    float:right;
+    padding:5px;
+    margin:10px ;
+    text-align:center; 
+    font-size:20px;
+   color: #fff;
+   font-weight:bold; 
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;  
+   animation:coloring 1.5s infinite ease-in-out;   
+ }
+ @keyframes coloring{
+   0%{
+       color: #fff;
+   }
+   100%{
+       color: rgb(114, 7, 7);
+   }
+ }
+ 
+ 
+ .heading116{
+    width:450px ;
+    height:40px ;
+    float: right;
+    padding-right:30px;
+    margin-right:5px; 
+      
+ }
+ .heading116 ul{
+        list-style:none; 
+        text-decoration:none;
+        float: right;
+ }
+ 
+ .heading116 ul li{
+    
+   float: right;
+ 
+    
+ }
+ 
+ .heading116 ul li a{
+           text-decoration:none;
+           font-size:20px;
+           margin-left:20px;
+           margin:30px ;
+           color: #fff;
+           
+                
+    
+ }
+ 
+ .heading336{
+   width:1130px;
+   height:50px ;
+   float: right;
+   background-color:black; 
+  
+ }
+ .heading336 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: right; 
+       
+ }
+ 
+ .heading336 ul li{
+   
+  float: right;
+   
+ }
+ 
+ .heading336 ul li a{
+          text-decoration:none; 
+          margin:10px ;
+          font-size:15px; 
+          color: #fff;
+          border-radius:25px;
+          margin-left:38px 
+               
+   
+ }
+ 
+ .heading336 ul li a:hover{
+   text-decoration:underline; 
+ }
+ 
+ 
+ .header5556{
+   width:1130px;
+   height:3100px; 
+   background:#fff;
+   margin-top:15px;
+   margin-left:35px;   
+    
+    
+ }
+ 
+ .heading5556{
+   width:1110px;
+   height:40px ;
+   float: left; 
+ 
+  
+ }
+ .heading5556 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: left;
+       
+ }
+ 
+ .heading5556 ul li{
+   
+  float: left;
+   
+ }
+ 
+ .heading5556 ul li a{
+          text-decoration:none; 
+          margin:25px ;
+          font-size:25px; 
+          border-radius:25px;
+          color: rgb(216, 14, 14);
+          
+        
+ }
+ 
+ .heading5556 ul li a i:hover{
+   transform:rotateY(240deg);
+   background:pink  
+ }
+ 
+ 
+ .footer226{
+    width:1130px ;
+    height:300px ;
+    margin-top:5px;
+    margin-left:35px;     
+ }
+ .footerMenu226{
+    width:1020px ;
+    height:140px ;
+    margin-left:40px;
+    margin-top:30px;  
+ }
+ 
+ .footerMenu226 ul{
+    list-style:none; 
+ }
+ 
+ .footerMenu226 ul li{
+ 
+    float: right;
+    margin:10px ;
+    margin-top:50px; 
+ }
+ 
+ .footerMenu226 ul li a{
+    text-decoration:none;
+    color:#fff;
+    font-size:17px;
+    font-family:tahoma;   
+ }
+ 
+ .footerLogo226{
+    float: left;
+    padding:10px ;
+    margin-top:25px; 
+    margin-left:20px 
+ }
+ 
+ .footerMenu226 ul li a:hover{
+    text-decoration:underline;
+    color: rgb(240, 12, 12); 
+ }
+ 
+ .copyRight226{
+    color: #fff;
+    font-size:17px;
+    font-family:tahoma;
+    text-align:center;
+    padding:10px ;   
+ }
+ 
+ 
+ 
+ 

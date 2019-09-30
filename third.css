@@ -1,0 +1,303 @@
+body{
+    background-image:url(bacgrau.PNG);
+    margin:0 ;
+    padding:0 ;
+ 
+ }
+
+ .container-all{
+
+   width:1200px ;
+   height:auto ;
+   margin:auto ;
+   
+}
+ 
+ .above-body113{
+   width:1130px ;
+   height:200px ;
+   background-color:rgb(216, 54, 54);
+   margin:0px ;
+   position: relative;
+   margin-left:35px 
+    
+ }
+ 
+ .header113{
+   width:1110px ;
+   height:100px ;
+   margin:0px ;
+   padding:0px ;
+   position: relative;     
+ }
+ 
+ .log{
+   width:140px ;
+   height:60px ;
+   float: left;
+   margin:10px ;
+   border:2px solid rgb(133, 6, 6);
+   
+ }
+ .title113{
+   width:350px ;
+   height:80px ;
+   margin:10px ;
+   float: left;
+   padding:5px ;
+   margin-left: 175px ;
+   text-align: center;
+   font-size:27px;
+   color: #fff;
+   font-weight:bold;
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;   
+ }
+ .teacher113{
+    width:150px ;
+    height: 60px;
+    float:right;
+    padding: 5px;
+    margin:10px ;
+    text-align:center; 
+    font-size:20px;
+   color: #fff;
+   font-weight:bold; 
+   border:1px solid rgb(133, 6, 6);
+   border-radius:25px;  
+   animation:coloring 1.5s infinite ease-in-out;   
+ }
+ @keyframes coloring{
+   0%{
+       color: #fff;
+   }
+   100%{
+       color: rgb(114, 7, 7);
+   }
+ }
+ 
+ 
+ .heading113{
+    width:450px ;
+    height:40px ;
+    float: right;
+    padding-right:30px;
+    margin-right:5px; 
+      
+ }
+ .heading113 ul{
+        list-style:none; 
+        text-decoration:none;
+        float: right;
+ }
+ 
+ .heading113 ul li{
+    
+   float: right;
+ 
+    
+ }
+ 
+ .heading113 ul li a{
+           text-decoration:none;
+           font-size:20px;
+           margin-left:20px;
+           margin:30px ;
+           color: #fff;
+           
+                
+    
+ }
+ 
+ .heading333{
+   width:1130px;
+   height:50px ;
+   float: right;
+   background-color:black; 
+  
+ }
+ .heading333 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: right; 
+       
+ }
+ 
+ .heading333 ul li{
+   
+  float: right;
+   
+ }
+ 
+ .heading333 ul li a{
+          text-decoration:none; 
+          margin:10px ;
+          font-size:15px; 
+          color: #fff;
+          border-radius:25px;
+          margin-left:38px 
+               
+   
+ }
+ 
+ .heading333 ul li a:hover{
+   text-decoration:underline; 
+ }
+ 
+ 
+ .header5553{
+   width:1130px ;
+   height:93%; 
+   background:#fff;
+   margin-top:15px;
+   margin-left:35px;   
+    
+    
+ }
+ 
+ .heading5553{
+   width:1110px;
+   height:40px ;
+   float: left; 
+ 
+  
+ }
+ .heading5553 ul{
+       list-style:none; 
+       text-decoration:none;
+       float: left;
+       
+ }
+ 
+ .heading5553 ul li{
+   
+  float: left;
+   
+ }
+ 
+ .heading5553 ul li a{
+          text-decoration:none; 
+          margin:25px ;
+          font-size:25px; 
+          border-radius:25px;
+          color: rgb(216, 14, 14);
+          
+        
+ }
+ 
+ .heading5553 ul li a i:hover{
+   transform:rotateY(240deg);
+   background:pink  
+ }
+ 
+ .contenair113{
+   width:99% ;
+   height:320px; 
+   margin-top:10px;
+   margin-left:5px;
+   text-align:center;
+   color: rgb(245, 12, 12);        
+ }
+ 
+ .contenair113 table{
+    border:1px solid rgb(115, 116, 117);
+     
+ }
+ 
+ .contenair113 table td{
+                font-size:15px;
+                font-family:tahoma;
+                border:1px solid gray;     
+ }
+ 
+ .contenair113 table td audio{
+    width:120px ;
+    height:30px ;
+    padding:2px ;
+ 
+ }
+ 
+ .contenair3333{
+    width:98% ;
+    height:400px ;
+    margin-left:10px;
+    text-align:center 
+   
+   
+ }
+ 
+ .contenair3333 table{
+    width:900px ;
+    height:400px ;
+    border:1px solid gray;
+    margin-left:100px;
+    font-size:20px;
+    color: rgb(226, 10, 10);
+    font-family:tahoma;     
+ }
+ 
+ .contenair3333 table td{
+    width:800px ;
+    border:1px solid gray;
+    margin-left:100px   
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ .footer223{
+    width:1130px ;
+    height:300px ;
+    margin-top:5px;
+    margin-left:35px;     
+ }
+ .footerMenu223{
+    width:1020px ;
+    height:140px ;
+    margin-left:40px;
+    margin-top:30px;  
+ }
+ 
+ .footerMenu223 ul{
+    list-style:none; 
+ }
+ 
+ .footerMenu223 ul li{
+ 
+    float: right;
+    margin:10px ;
+    margin-top:50px; 
+ }
+ 
+ .footerMenu223 ul li a{
+    text-decoration:none;
+    color:#fff;
+    font-size:17px;
+    font-family:tahoma;   
+ }
+ 
+ .footerLogo223{
+    float: left;
+    padding:10px ;
+    margin-top:25px; 
+    margin-left:20px 
+ }
+ 
+ .footerMenu223 ul li a:hover{
+    text-decoration:underline;
+    color: rgb(240, 12, 12); 
+ }
+ 
+ .copyRight223{
+    color: #fff;
+    font-size:17px;
+    font-family:tahoma;
+    text-align:center;
+    padding:10px ;   
+ }
+ 
+ 
+ 
+ 

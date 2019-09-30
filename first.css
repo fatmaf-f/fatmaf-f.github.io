@@ -1,0 +1,399 @@
+
+body{
+   
+    margin:0  ;
+    padding:0 ;
+    background-image:url(bacgrau.PNG) ;
+     
+}
+
+.container-all{
+
+    width:1200px ;
+    height:auto ;
+    margin:auto ;
+    
+}
+
+.above-body{
+    width:1130px ;
+    height:200px ;
+    background-color:rgb(216, 54, 54);
+    margin:0px ;
+    margin-left:35px    
+     
+}
+
+.header{
+    width:1110px ;
+    height:100px ;
+    margin:0px ;
+    padding:0px ;
+    position: relative;     
+}
+
+.log{
+    width:140px ;
+    height:60px ;
+    float: left;
+    margin:10px ;
+    border:2px solid rgb(133, 6, 6);
+    
+}
+.title{
+    width:350px ;
+    height:80px ;
+    margin:10px ;
+    float: left;
+    padding:5px ;
+    margin-left: 175px ;
+    text-align: center;
+    font-size:27px;
+    color: #fff;
+    font-weight:bold;
+    border:1px solid rgb(133, 6, 6);
+    border-radius:25px;   
+ }
+ .teacher{
+     width:150px ;
+     height: 60px;
+     
+     padding: 5px;
+     margin:10px; 
+     float: right;
+     text-align:center; 
+     font-size:20px;
+    color: #fff;
+    font-weight:bold; 
+    border:1px solid rgb(133, 6, 6);
+    border-radius:25px;  
+    animation:coloring 1.5s infinite ease-in-out;   
+}
+@keyframes coloring{
+    0%{
+        color: #fff;
+    }
+    100%{
+        color: rgb(114, 7, 7);
+    }
+}
+
+
+ .heading{
+     width:450px ;
+     height:40px ;
+     float: right;
+     padding-right:15px;
+     margin-right:5px; 
+       
+}
+ .heading ul{
+         list-style:none; 
+         text-decoration:none;
+         float: right;
+}
+
+.heading ul li{
+     
+    float: right;
+
+     
+}
+
+ .heading ul li a{
+            text-decoration:none;
+            font-size:17px;
+            margin-left:10px;
+            margin:20px ;
+            color: #fff;
+            
+                 
+     
+}
+
+.heading2{
+    width:1130px;
+    height:50px ;
+    float: right;
+    background-color:black; 
+   
+}
+.heading2 ul{
+        list-style:none; 
+        text-decoration:none;
+        float: right;
+        margin-bottom:100px;
+        
+}
+
+.heading2 ul li{
+    
+   float: right;
+    
+}
+
+.heading2 ul li a{
+           text-decoration:none; 
+           margin:10px ;
+           font-size:15px; 
+           color: #fff;
+           border-radius:25px;
+           margin-left:38px 
+                
+    
+}
+
+.heading2 ul li a:hover{
+    text-decoration:underline; 
+}
+
+.header3{
+    width:1130px ;
+    height:1850px ;
+    position: relative;
+    margin-top:15px  ;
+    background:rgb(247, 249, 250);
+    margin-bottom:15px;
+    margin-left:35px; 
+
+      
+}
+
+.heading3{
+    width:1110px;
+    height:40px ;
+    float: left; 
+   
+}
+.heading3 ul{
+        list-style:none; 
+        text-decoration:none;
+        float: left;
+        
+}
+
+.heading3 ul li{
+    
+   float: left;
+    
+}
+
+.heading3 ul li a{
+           text-decoration:none; 
+           margin:25px ;
+           font-size:25px; 
+           border-radius:25px;
+           color: rgb(216, 14, 14);
+}
+
+.heading3 ul li a i:hover{
+    transform:rotateY(240deg);
+    background:pink  
+}
+
+.diving-books{
+    width:510px ;
+    height:1550px ;
+    float:right;
+    background:rgb(248, 245, 245); 
+    margin-right:20px;
+    border:3px solid rgb(248, 10, 10);
+    border-radius:25px;
+    margin-bottom:40px;
+         
+}
+.diving-book1{
+    width:480px ;
+    height:220px ;
+    margin-top:20px;
+    margin-right:10px;
+    background:rgb(201, 179, 179);   
+    float:right;
+    margin-bottom:10px;
+    border:2px solid rgb(247, 11, 11);
+ 
+}
+.diving-book1 img{
+    float: right;
+    margin-top:50px;
+    margin-right:30px;
+    border:1px solid rgb(247, 12, 12);
+     
+}
+.items{
+    width:170px ;
+    height:115px ;
+    background:rgb(236, 9, 9);
+    float: left;
+    padding:5px ;
+    margin-left:50px;
+    margin-top:70px;  
+    border:1px solid rgb(248, 11, 11);
+       
+        
+}
+.items h5{
+    margin-left:30px;
+    font-weight:bold;
+    color: #fff;
+    font-size:16px; 
+        
+}
+
+.items p{
+    margin-left:20px;
+    font-size:15px;
+    font-weight:bold;
+    color: #fff;  
+}
+.items p a{
+    text-decoration:none; 
+    font-size:22px; 
+
+    margin-left:20px;
+    font-weight:bold;
+    color: #fff;
+      
+    animation:coloring 1.5s infinite ease-in-out;   
+}
+@keyframes coloring{
+    0%{
+        color: #fff;
+    }
+    100%{
+        color: rgb(114, 7, 7);
+    }
+}
+
+.other-things{
+    width:450px ;
+    height:1430px ;
+    float: left; 
+    margin-left:20px;
+    border:2px solid rgb(247, 13, 13); 
+    border-radius:25px;
+    margin-top:20px;
+    
+       
+}
+
+.subjects{
+    width:300px ;
+    height:30px ;
+    margin-top:20px;
+    text-align:center; 
+    margin-left:70px; 
+
+}
+.subjects h3{
+    color: rgb(238, 18, 18);
+    font-weight:bold;
+    text-decoration:underline 
+      
+}
+
+.vedioes{
+    width:420px ;
+    height:150px ;
+    margin-left:15px;
+    border:1px solid rgb(248, 11, 11);
+    margin-bottom:20px;    
+}
+.vedioes img{
+    width:160px ;
+    height:120px ;
+    float: right;
+    margin-right:20px;
+    margin-top:10px;
+    border:1px solid  rgb(248, 11, 11); 
+}
+.title-vedio{
+    width:170px ;
+    height:50px ;
+    float: left;
+    margin-left:20px;
+    margin-top:40px;
+    text-align:center;    
+}
+.title-vedio h4{
+    color: rgb(228, 17, 17);
+    font-weight:bold;  
+}
+.title-vedio h4:hover{
+    text-decoration:underline;
+    color: rgb(240, 25, 175); 
+
+}
+.footer{
+    width:1130px ;
+    height:300px ;
+    margin-top:50px;
+    margin-left:35px     
+}
+.footerMenu{
+    width:1020px ;
+    height:140px ;
+    margin-left:40px;
+    margin-top:30px;  
+
+
+}
+.footerMenu ul{
+    list-style:none; 
+}
+
+.footerMenu ul li{
+
+    float: right;
+    margin:10px ;
+    margin-top:50px; 
+}
+
+.footerMenu ul li a{
+    text-decoration:none;
+    color:#fff;
+    font-size:17px;
+    font-family:tahoma;   
+}
+
+.footerLogo{
+    float: left;
+    padding:10px ;
+    margin-top:25px; 
+    margin-left:20px 
+}
+
+.footerMenu ul li a:hover{
+    text-decoration:underline; 
+}
+
+.copyRight{
+    color: #fff;
+    font-size:17px;
+    font-family:tahoma;
+    text-align:center;
+    padding:10px ;   
+}
+
+@media only screen and(min-width:940px) and (max-width:1070px){
+    .title{
+        width:50%;
+    }
+    .header{
+        width:80% ;
+    }
+}
+
+@media only screen and(max-width:940px) and (min-width:802px){
+    .title{
+        width:70%;
+    }
+
+    
+}
+
+@media only screen and(max-width:801px){
+    .header{
+        height:auto 
+    }
+}
